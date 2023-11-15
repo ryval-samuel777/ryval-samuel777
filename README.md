@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi there, I'm nameUser</h1>
+  <h1>👋 Hi there, I'm Ryval Samuel </h1>
 </div>
 
 ## 🚀 Interests
@@ -15,7 +15,7 @@
 - **Android**: Flutter, Dart
 - **Front-End**: HTML, CSS, JS, TailwindCSS, Vue.js 3, Nuxt 3
 - **Back-End**: Golang, Python, NodeJS
-- **DevOps & Cloud**: AWS, GCP (1 year experience)
+- **DevOps & Cloud**: AWS, GCP 
 - **Database**: Firebase, SQL
 - **System**: Rust, Zig, C++, Golang
 - **Cyber Security**: SOC t1, Red Team 
